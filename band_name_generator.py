@@ -1,0 +1,11 @@
+# Program to generate Band Name.
+
+#collecting the user input using two variables city and item, 
+#concatenating to give the Band Name
+
+print("Welcome to the Band Name Generator!\n")
+
+city = input("Enter your Favorite City Name ")
+item = input("Enter the item to your right ")
+
+print("Your Band Name could be "+ city + " " + item)
