@@ -1,0 +1,40 @@
+# Table of Content
+
+# Day 1 : Working with variables
+	
+	* F_T_1_Band_Name_Generator.py
+
+# Day 2 : Data Types and String Manipulation
+	* F_T_1_Tip_Calculator.py
+	* T_1_Lucky_Number_generator.py
+	* T_2_BMI_Calculator.py
+	* T_3_Life_In_Weeks.py
+
+# Day 3 : Control Flow and Logical Operators
+	
+	* F_T_1_Treasure_Hunter_Game.py
+	* T_1_Odd_Or_Even.py
+	* T_2_bmi_calculator_advanced.py
+	* T_3_Leap_year_finder.py
+	* T_4_pizza_order.py
+	* T_5_Love_Calculator.py
+
+# Day 4 : Randomization and List
+	
+	* F_T_1_Rock_paper_scissor_game.py
+	* T_1_virtual_coin.py
+	* T_2_Banker_roulette.py
+	* T_3_treasure_map.py
+
+# Day 5 : Loops 
+	
+	* F_T_1_password_generatorV1.0.py
+	* F_T_2_password_generatorV2.0.py
+	* T_1_Average_height_finder.py
+	* T_2_High_score_finder.py
+	* T_3_sum_of_even.py
+	* T_4_Fizz_Buzz_generator.py
+
+# Day 6 : Functions
+
+# Day 7 : Recap with Game.
